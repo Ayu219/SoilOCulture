@@ -37,6 +37,9 @@ The Soil – O – Culture App currently supports the following languages:
 
 We welcome contributions from the community to add more languages. Refer to our [Contribution Guidelines](CONTRIBUTING.md) for details.
 
+## Screenshots
+![Soil – O – Culture SS](ss/Hindi_Soil_O.png) ![Soil – O – Culture SS](ss/SoilOCulture.png) ![Soil – O – Culture SS](ss/SoilOCulture1.png)
+
 ## Getting Started
 
 1. Clone the repository:
