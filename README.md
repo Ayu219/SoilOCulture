@@ -39,7 +39,7 @@ We welcome contributions from the community to add more languages. Refer to our 
 
 ## Screenshots
 
-<img src="ss/SoilOCulture.png" alt="Image 1" height="600" width="300"/> <img src="ss/SoilOCulture1.png" alt="Image 2" height="600" width="300"/> <img src="ss/Hindi_Soil_O.png" alt="Image 3" height="600" width="300"/>
+<img src="ss/SoilOCulture.png" alt="Image 1" height="600" width="300"/> <img src="ss/SoilOCulture1.png" alt="Image 2" height="600" width="300"/> <img src="ss/SoilHindi.png" alt="Image 3" height="600" width="300"/><img src="ss/Hindi_Soil_O.png" alt="Image 3" height="600" width="300"/>
 
 
 ## Getting Started
