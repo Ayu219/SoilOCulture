@@ -38,7 +38,9 @@ The Soil – O – Culture App currently supports the following languages:
 We welcome contributions from the community to add more languages. Refer to our [Contribution Guidelines](CONTRIBUTING.md) for details.
 
 ## Screenshots
-![Soil – O – Culture SS](ss/Hindi_Soil_O.png) ![Soil – O – Culture SS](ss/SoilOCulture.png) ![Soil – O – Culture SS](ss/SoilOCulture1.png)
+
+<img src="SoilOCulture.png" alt="Image 1" width="200"/> <img src="(ss/SoilOCulture1.png" alt="Image 2" width="200"/> <img src="ss/Hindi_Soil_O.png" alt="Image 3" width="200"/>
+
 
 ## Getting Started
 
