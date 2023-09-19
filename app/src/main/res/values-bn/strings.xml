@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoilOCulture</string>
+    <string name="activity1">ফসলের পূর্বাভাস</string>
+    <string name="activity2">ফসলের রোগ</string>
+    <string name="activity3">ভাষা পরিবর্তন করুন</string>
+    <string name="activity5">আরও তথ্যের জন্য এখানে ক্লিক করুন</string>
+    <string name="app_moto">কৃষি হল আমাদের সবচেয়ে বুদ্ধিমান সাধনা, কারণ এটি শেষ পর্যন্ত প্রকৃত সম্পদ, ভাল নৈতিকতা এবং সুখের জন্য সবচেয়ে বেশি অবদান রাখবে।\" কৃষককে আশাবাদী হতে হবে বা তিনি এখনও কৃষক হতে পারবেন না</string>
+    <string name="output">ফলাফল</string>
+    <string name="pickimage">ছবি বাছুন</string>
+    <string name="start_camera">ফটোতে ক্লিক করুন</string>
+    <string name="nitrogen">নাইট্রোজেন</string>
+    <string name="potassium">পটাসিয়াম</string>
+    <string name="phos">ফসফরাস</string>
+    <string name="ph">পি জ</string>
+    <string name="state">রাষ্ট্র</string>
+    <string name="city">শহর</string>
+    <string name="enter">প্রবেশ করুন</string>
+    <string name="number_of_days">দিনের সংখ্যা</string>
+    <string name="rain_forecast">বৃষ্টির পূর্বাভাস</string>
+</resources>

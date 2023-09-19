@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoilOCulture</string>
+    <string name="activity1">पीक अंदाज</string>
+    <string name="activity2">पिकावरील रोग</string>
+    <string name="activity3">भाषा बदला</string>
+    <string name="activity5">अधिक माहितीसाठी येथे क्लिक करा</string>
+    <string name="app_moto">शेती हा आपला सर्वात शहाणा व्यवसाय आहे, कारण शेवटी ती खरी संपत्ती, चांगले नैतिकता आणि आनंदात सर्वाधिक योगदान देईल.\" शेतकऱ्याला आशावादी असणे आवश्यक आहे किंवा तो अजूनही शेतकरी होणार नाही.</string>
+    <string name="output">परिणाम</string>
+    <string name="pickimage">प्रतिमा निवडा</string>
+    <string name="start_camera">फोटो क्लिक करा</string>
+    <string name="nitrogen">नायट्रोजन</string>
+    <string name="potassium">पोटॅशियम</string>
+    <string name="phos">फॉस्फरस</string>
+    <string name="ph">पी एच</string>
+    <string name="state">राज्य</string>
+    <string name="city">शहर</string>
+    <string name="enter">प्रविष्ट करा</string>
+    <string name="number_of_days">दिवसांची संख्या</string>
+    <string name="rain_forecast">पावसाचा अंदाज</string>
+</resources>

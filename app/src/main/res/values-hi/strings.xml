@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoilOCulture</string>
+    <string name="activity1">फसल भविष्यवाणी</string>
+    <string name="activity2">फसल रोग</string>
+    <string name="activity3">भाषा बदलें</string>
+    <string name="activity5">अधिक जानने के लिए यह लिंक क्लिक करें</string>
+    <string name="app_moto">कृषि हमारी सबसे बुद्धिमान खोज है, क्योंकि यह अंत में वास्तविक धन, अच्छी नैतिकता और खुशी में सबसे अधिक योगदान देगी।</string>
+    <string name="output">परिणाम</string>
+    <string name="pickimage">छवि चुनें</string>
+    <string name="start_camera">फोटो क्लिक करें</string>
+    <string name="nitrogen">नाइट्रोजन</string>
+    <string name="potassium">पोटैशियम</string>
+    <string name="phos">फास्फोरस</string>
+    <string name="ph">पी एच</string>
+    <string name="state">राज्य</string>
+    <string name="city">शहर</string>
+    <string name="enter">दर्ज</string>
+    <string name="number_of_days">दिनों की संख्या</string>
+    <string name="rain_forecast">बारिश का पूर्वानुमान</string>
+</resources>

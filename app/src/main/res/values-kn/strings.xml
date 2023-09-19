@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoilOCulture</string>
+    <string name="activity1">ಬೆಳೆ ಭವಿಷ್ಯ</string>
+    <string name="activity2">ಬೆಳೆ ರೋಗ</string>
+    <string name="activity3">ಭಾಷೆ ಬದಲಿಸಿ</string>
+    <string name="activity5">ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+    <string name="app_moto">ಕೃಷಿಯು ನಮ್ಮ ಬುದ್ಧಿವಂತ ಅನ್ವೇಷಣೆಯಾಗಿದೆ, ಏಕೆಂದರೆ ಅದು ಅಂತಿಮವಾಗಿ ನಿಜವಾದ ಸಂಪತ್ತು, ಉತ್ತಮ ನೈತಿಕತೆ ಮತ್ತು ಸಂತೋಷಕ್ಕೆ ಹೆಚ್ಚಿನ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ.\" ರೈತ ಆಶಾವಾದಿಯಾಗಿರಬೇಕು ಅಥವಾ ಅವನು ಇನ್ನೂ ರೈತನಾಗುವುದಿಲ್ಲ.</string>
+    <string name="output">ಫಲಿತಾಂಶ</string>
+    <string name="pickimage">ಚಿತ್ರವನ್ನು ಆರಿಸಿ</string>
+    <string name="start_camera">ಫೋಟೋ ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+    <string name="nitrogen">ಸಾರಜನಕ</string>
+    <string name="potassium">ಪೊಟ್ಯಾಸಿಯಮ್</string>
+    <string name="phos">ರಂಜಕ</string>
+    <string name="ph">ಪಿ ಹೆಚ್</string>
+    <string name="state">ರಾಜ್ಯ</string>
+    <string name="city">ನಗರ</string>
+    <string name="enter">ನಮೂದಿಸಿ</string>
+    <string name="number_of_days">ದಿನಗಳ ಸಂಖ್ಯೆ</string>
+    <string name="rain_forecast">ಮಳೆ ಮುನ್ಸೂಚನೆ</string>
+</resources>
