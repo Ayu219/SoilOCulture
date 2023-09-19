@@ -2,7 +2,7 @@
 
 # Soil – O – Culture App
 
-![Soil – O – Culture Logo](res/drawable/logo.png)
+![Soil – O – Culture Logo](app/src/main/res/drawable/logo.png)
 
 ## Overview
 
